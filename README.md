@@ -15,3 +15,5 @@ NearMe displays upcoming events in the Kingston Area, scraping Eventbrite to fet
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](Typescript-url)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](Typescript-url)
 [![CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](Typescript-url)
+
+i used next.js too... it's cool i guess?
